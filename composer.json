@@ -1,0 +1,17 @@
+{
+    "name": "migs/basilio",
+    "autoload": {
+        "psr-4": {
+            "Migs\\Basilio\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "miguelcarl",
+            "email": "basilio.miguelcarl@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
